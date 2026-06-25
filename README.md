@@ -13,4 +13,4 @@ regarding the health of the US economy. As things grew and expanded I felt the n
 to add more AI to ensemble. I then used the ensemble to attack the very report I had just made, 
 not only did the report stay structurally sound the ensemble discovered more holes in the economy to
 investigate. This was not my original intention or scale. However I felt this research was very 
-important
+important. Test it, break it, prove me wrong, prove me right! All are valid in my mind. 
