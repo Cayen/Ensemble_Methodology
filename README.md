@@ -113,8 +113,8 @@ Honest uncertainty is more useful than false precision.
 
 ## Origin
 
-Built by Cayen Simpson — farmer, journalist, independent 
-AI researcher, Longmont/Firestone Colorado.
+Built by Brian Simpson — independent 
+AI researcher, Colorado.
 
 The verification gate was designed in a conversation. 
 The Librarian operational protocol was validated over 
