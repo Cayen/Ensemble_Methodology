@@ -1,0 +1,128 @@
+**COMPREHENSIVE INTELLIGENCE BRIEFING**
+**Date:** July 1, 2026
+**Classification:** Open Source
+
+---
+
+## I. ECONOMIC INDICATORS
+
+### Agricultural Sector
+- **US Winter Wheat Production:** 1.030 billion bushels (2026/27), down from 1.402 billion bushels prior year (-26.5%)
+- **Hard Red Winter Wheat:** 497 million bushels, down from 804 million bushels (-38.1%)
+- **Kansas Wheat Yield:** 37 bushels/acre, down from 51 bushels/acre (-27.5%)
+- **Crop Condition:** 25% of US winter wheat rated good-to-excellent (lowest since USDA records began 1986)
+- **European Agricultural Status:** Record heat waves and drought conditions affecting crop yields; farmers reporting losses
+
+### Financial Markets
+- **US Treasury Yields (June 30, 2026):**
+  - 2-year: 4.154%
+  - 10-year: 4.463%
+  - 30-year: 4.965%
+- **Federal Reserve Policy:** CME FedWatch indicates 70.6% probability of rates steady at July meeting; 63% probability of at least 25 basis point hike at September meeting
+- **Fed Chair Statement:** Kevin Warsh stated "prices are too high" at ECB Sintra forum (June 30)
+- **Private Employment:** ADP report shows 98,000 private payrolls added in June vs. 110,000 consensus
+
+### Corporate Developments
+- **Microsoft Corporation:** Stock declined 19% in June 2026; worst monthly performance since 2000
+- **SpaceX:** IPO shares trading at $164.19, down 27% from $225.64 high (June 16)
+- **CoreWeave:** Stock declined 10% (June 30) amid debt refinancing concerns
+- **Caterpillar Inc.:**
+  - PE ratio: 39x (vs. 13x three years prior)
+  - Price/Sales: 6x (vs. 1-2x historical)
+  - Stock up 86% in first half of 2026; 172% over 12 months
+- **Meta Platforms:** Announced plans to enter cloud AI computing market (June 30)
+
+---
+
+## II. ENERGY AND COMMODITIES
+
+### Strait of Hormuz
+- **Status:** Maritime traffic restricted; MOU signed June 17, 2026 with 60-day term
+- **Expiration:** August 17, 2026
+- **Impact:** Approximately 20 million barrels/day of petroleum liquids affected
+- **US Position:** President Trump briefed on military options; administration has indicated willingness to extend negotiations beyond August 18, 2026 deadline
+
+### Russia-Ukraine Energy
+- **Russian Fuel Status:** Russia importing gasoline due to refinery infrastructure damage from Ukrainian strikes
+- **Domestic Impact:** Fuel rationing reported in several Russian regions and occupied Crimea
+- **Strategic Petroleum Reserve:** Russian national gasoline reserves at 1.7 million metric tons (4% below prior year)
+
+### Grid Infrastructure
+- **PJM Interconnection:** Emergency generation order issued June 30, 2026 due to heat wave and capacity constraints
+- **Duration:** Order expires July 3, 2026, 11:59 PM ET
+
+---
+
+## III. ARTIFICIAL INTELLIGENCE SECTOR
+
+### Enterprise Adoption
+- **UBS Survey:** Approximately 60% of enterprises throttling AI spending; implementing usage guardrails
+- **Corporate Rollbacks:**
+  - Ford Motor Company: Rehiring human engineers to address quality issues automated systems could not resolve
+  - Commonwealth Bank of Australia: Reinstated 40+ customer service positions after AI voice bot implementation failed
+  - IBM: Announced plans to triple entry-level hiring after AI systems failed to handle 6% of HR requests (ethical dilemmas)
+- **Survey Data:** 39% of business leaders made AI-related redundancies; 55% of those admit decisions were incorrect
+
+### Market Data
+- **AI Infrastructure Valuation:** Multiple data center projects (O'Leary/Stratos, Alberta/Wonder Valley) announced at $100B+ valuations
+- **Hyperscaler Capex:** Industry projections indicate $757B spending in 2026, $920B in 2027
+- **Climate Risk:** First Street report indicates 79% of global data center capacity faces elevated acute climate risk
+
+---
+
+## IV. GEOPOLITICAL DEVELOPMENTS
+
+### Iran Nuclear Negotiations
+- **Deadline:** August 18, 2026 for nuclear agreement
+- **Military Planning:** US officials confirm "all-out war options" have been presented to President Trump
+- **Current Status:** Administration pursuing diplomatic extension; military options remain active
+
+### Japan Monetary Policy
+- **Yen Exchange Rate:** 162.41 per USD (40-year low)
+- **Bank of Japan:** Tightening policy; rates at highest level in 30+ years
+- **Intervention Status:** $72B spent on yen intervention; failed to reverse trend
+
+---
+
+## V. INSTITUTIONAL POSITIONING
+
+### Hedge Fund Activity
+- **Tech Sector Selling:** Fastest pace of technology stock selling by hedge funds since 2016 (per Goldman Sachs data)
+- **Magnificent 7 Exposure:** Hedge fund allocation at 14.5% (3-year low)
+- **Six-Month Trend:** -7 percentage point decline in tech allocation
+
+### Central Bank Communications
+- **Bank for International Settlements:** June 29, 2026 warning on AI debt bubble risks to financial stability
+- **Federal Reserve:** June projections indicate nine of eighteen FOMC members foresee higher rates before year-end
+
+---
+
+## VI. TIMELINE MARKERS
+
+| Date | Event |
+|------|-------|
+| July 3, 2026 | PJM emergency order expires |
+| July 29-30, 2026 | Federal Reserve meeting |
+| August 1, 2026 | OMB Director Vought authority expires |
+| August 12-16, 2026 | Dialog retreat (Dublin) |
+| August 17, 2026 | Hormuz MOU expiration |
+| August 18, 2026 | Iran nuclear negotiation deadline |
+
+---
+
+## VII. DATA SOURCES
+
+- US Department of Agriculture (USDA)
+- Federal Reserve Bank of St. Louis (FRED)
+- Bank for International Settlements
+- Chicago Mercantile Exchange (CME FedWatch)
+- ADP National Employment Report
+- UBS AG
+- Goldman Sachs Research
+- First Street Foundation
+- Wall Street Journal
+- Financial Times
+
+---
+
+**END OF BRIEFING**

@@ -1,0 +1,121 @@
+After dealing with an argument that broke out among the models they came to a consensus that there needed to be a disputer, unfortunately all of them think they are the disputer which is hilarious because I made the disputer a totally different AI: The group agreed that wave 6 needed to be rerun before moving forward. this prompt was developed:
+
+## Wave 6 Rerun Prompt
+**Ensemble Synthesis with Verification Gate & Adversarial Protocol**
+
+---
+
+### Your Role
+
+You are generating **Wave 6: Comprehensive Private Credit System Assessment**. This is a **rerun** — the prior Wave 6 failed gate checks due to source decay, invented precision, and framework leakage. Do not look at the prior Wave 6 output. Build fresh from primary sources.
+
+**Adversarial Assignment:** One model in this wave holds the **Disputer** role. If you are Disputer, your only job is to attack the weakest claim. If you are not Disputer, you must still include one disagreement in your submission.
+
+---
+
+### Inputs (Raw Sources Only)
+
+**Phase 1 — Liquidity Stress (Verified):**
+- Apollo ADS: SEC filing June 23, 2026 — 16.8% redemption requests, $2.4B, $26B AUM
+- Morgan Stanley North Haven: SEC filing June 23, 2026 — 11.6% redemption, $7B AUM
+- BCRED: Blackstone disclosure — 10% redemption, $79B AUM (corrected from prior drift)
+- Industry: Multiple funds gated (Blue Owl, Ares, etc.)
+
+**Phase 2 — Credit Deterioration (Verified):**
+- Proskauer index: 697 loans, 2.73% default rate Q1 2026 (up from 1.84%)
+- Fitch: Small borrowers (EBITDA <$25M) 15.8% default rate 2025
+- Software sector: PIK usage rising, concentrated stress
+
+**Bank Exposures (Verified):**
+- JPMorgan: Q1 2026 — $50B direct exposure
+- Wells Fargo: Q1 2026 — $36.2B (17% software concentration)
+- Deutsche Bank: Q1 2026 — $30B
+- Citi: Q1 2026 — $22B
+- Bank of America: Q1 2026 — ~$20B (corrected from Goldman label error)
+
+**CRE (Verified):**
+- Trepp: $76.6B hard CMBS maturities 2026 (not 2026-2027)
+- Trepp: Office delinquency 11.31% (Dec 2025) → 12.34% (Jan 2026) → 11.4% (Feb 2026)
+
+**Insurance (Range, Not Point):**
+- Moody's: $807B private/illiquid bonds (20% of $4T fixed income)
+- Barclays: ~10% of total assets
+- CreditSights: 31.4% of investment portfolios YE 2024
+- **Range: 10-31% depending on methodology. Do not collapse to single point.**
+
+**Treasury (Weak Thread):**
+- Recent 30Y auctions: bid-to-cover 2.4-2.5 (normal range)
+- March 2026: Weak 2Y/5Y/7Y auctions (oil/inflation concerns)
+- **"Citi sentinel" is ENSEMBLE-DEFINED only — not market fact**
+
+**Geopolitical/Agriculture (Verified June 25):**
+- Hormuz: Iran declared closed June 21, but 5 ships transited June 25 vs 93/day normal
+- Agriculture: Winter wheat 30% good/excellent, 57% of wheat area in drought, hard red winter lowest since 1957
+
+---
+
+### Required Output Format
+
+**Section 1: Verified Claims Table**
+
+| Claim | Value | Source | Tag |
+|-------|-------|--------|-----|
+| [e.g., Apollo redemption] | 16.8% | SEC filing June 23 | `[SOURCED]` |
+
+Every row must have a tag. No blank tags.
+
+**Section 2: Forced-Disagreement Field** *(Cannot be empty)*
+
+> "One claim from the inputs above that I believe is wrong, unsupported, or that I have NOT independently re-verified: _________"
+
+If you genuinely have no objection: "No objection, and I independently confirmed [claim] against [source]"
+
+**Section 3: Synthesis Narrative**
+
+Build the narrative **only** from `[SOURCED]` claims. Explicitly mark gaps:
+- "Insurance allocation varies by methodology (10-31%) — institution-level data needed for Wave 7"
+- "Treasury market stress: Mixed signals, no clear distress pattern"
+
+**Section 4: Topic Registry Update**
+
+| Thread | Status | Last touched | Open questions | Tag |
+|--------|--------|--------------|----------------|-----|
+
+**Section 5: Disputer Output** *(If you hold Disputer role)*
+
+Attack the weakest claim in the draft. State your counter-argument and what evidence would change your mind.
+
+---
+
+### Gate Checklist (Self-Verify Before Submitting)
+
+- [ ] Every number traces to named, checkable source
+- [ ] No ranges collapsed to single points
+- [ ] No ensemble framework presented as market fact
+- [ ] Forced-disagreement field completed
+- [ ] If Disputer: explicit attack on weakest claim
+
+---
+
+### What to Avoid
+
+1. **"Consensus probability" framing** — Do not synthesize agreement into percentage confidence
+2. **Uniform table formatting** — `[SOURCED]` and `[UNVERIFIED]` must render differently
+3. **Silent endorsement** — "No objection" alone is unacceptable
+4. **Framework leakage** — "Sentinels," "triggers," "phases" are ours, not the market's
+
+---
+
+### Success Criteria
+
+A passing Wave 6 submission has:
+- At least one `[SOURCED]` claim per major thread
+- At least one flagged disagreement or explicit verification note
+- Visible gaps where data is missing
+- No invented precision
+
+A wave that produces smooth agreement with zero friction is **failing**, not succeeding.
+
+---
+
+**Generate Wave 6.**
