@@ -50,7 +50,7 @@ These failures produced the methodology documents in this repository. The projec
 
 ---
 
-## Current Status: 13 Active Vectors
+## Current Status: 14 Active Vectors
 
 | # | Vector | Status | Next Catalyst |
 |---|--------|--------|---------------|
@@ -66,7 +66,8 @@ These failures produced the methodology documents in this repository. The projec
 | 10 | Monetary/M2 | Active (lagged) | Inflation persistence |
 | 11 | Currency/Japan UST | Active — IV drip | Bessent statements, VIX |
 | 12 | Consumer Staples/Conagra | Active — bridge vector | **July 15 earnings** |
-| 13 | Municipal Fiscal Stress | Active — mid-crisis | Chicago pension watch |
+| 13 | Insurance | Layer R | This layer isn't a stressor, it is a resilence layer |
+| 14 | Logistics and Maritime | Shipping | This is a special layer about the movement of goods |
 
 **Hard deadlines:**
 - **July 15:** Conagra Q4 earnings — first hard catalyst connecting Agricultural → Financial vectors
@@ -187,5 +188,6 @@ The wildfires were already burning. The moths were already migrating. The work h
 *"Test it. Break it. Prove me wrong. Prove me right."*
 
 ---
+I'm not saying things will or will not happen in 38 days. It is just the most likely date things will start to happen. Remember just like y2k, we woke up, scratched and went on with our day. I don't believe in end of the world. 
 
-*Wave 8 Complete | 13 Active Vectors | Gate Operational | August 17 in 42 days*
+*Wave 8 Complete | 14 Active Vectors | Gate Operational | Layer R Operational | August 17 in 38 days*
