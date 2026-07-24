@@ -28,6 +28,7 @@ Early waves produced confident-looking output with real problems:
 These failures produced the methodology documents in this repository. The project stress-tested itself, found the failure modes, and built structural fixes.
 
 **The 72-78% convergence probability from early waves has been formally withdrawn.** It had no methodology behind it — no base rate, no backtest, no model. It was a "vibe with a percent sign." Current assessment: *"Active multi-system stress with uncertain severity and timing."*
+**Ai Obsessive streak** - Try to keep your chats with AI as clean and neutral as you can, otherwise they tend to start adding artifacts into the report. (see bottom of readme for the Millar Moth Migration as an example)
 
 ---
 
@@ -68,6 +69,9 @@ These failures produced the methodology documents in this repository. The projec
 | 12 | Consumer Staples/Conagra | Active — bridge vector | **July 15 earnings** |
 | 13 | Insurance | Layer R | This layer isn't a stressor, it is a resilence layer |
 | 14 | Logistics and Maritime | Shipping | This is a special layer about the movement of goods |
+| 15 | Households and Demographics | This is a layer about Households and current make up of a family unit |
+| 16 | Global overlay | How global market ripples are affecting the Economy |
+
 
 **Hard deadlines:**
 - **July 15:** Conagra Q4 earnings — first hard catalyst connecting Agricultural → Financial vectors
@@ -88,7 +92,7 @@ Every number in every wave submission gets one of these tags before it moves for
 | `[ENSEMBLE-DEFINED]` | Framework the ensemble itself created — not external fact |
 | `[GAP]` | Structural data limitation — information exists but is not publicly available |
 
-**The six failure modes a proper gate catches:**
+**The 8 failure modes a proper gate catches:**
 
 1. **Source decay across hops** — a number drifts because nobody re-checked the primary source, only the prior wave's table
 2. **Invented precision** — a real range gets collapsed into a fake single point that looks more authoritative
@@ -96,6 +100,8 @@ Every number in every wave submission gets one of these tags before it moves for
 4. **Consensus mistaken for verification** — models agreeing on an inherited wrong number, not independent confirmation
 5. **Scope creep** — a true number's label silently changes, turning a true claim into a false one
 6. **Thread attrition** — important threads disappear because the conversation moved to something more vivid
+7. **Word connection** — If you use colorful language suddenly it appears in everything, and everything connects back to it.
+7. **random fact connection** — if you ask for a cake recipe, suddenly everything connects perfectly to that recipe.
 
 ---
 
