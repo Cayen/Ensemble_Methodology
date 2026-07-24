@@ -51,7 +51,7 @@ These failures produced the methodology documents in this repository. The projec
 
 ---
 
-## Current Status: 14 Active Vectors
+## Current Status: 16 Active Vectors
 
 | # | Vector | Status | Next Catalyst |
 |---|--------|--------|---------------|
@@ -101,11 +101,11 @@ Every number in every wave submission gets one of these tags before it moves for
 5. **Scope creep** — a true number's label silently changes, turning a true claim into a false one
 6. **Thread attrition** — important threads disappear because the conversation moved to something more vivid
 7. **Word connection** — If you use colorful language suddenly it appears in everything, and everything connects back to it.
-7. **random fact connection** — if you ask for a cake recipe, suddenly everything connects perfectly to that recipe.
+8. **random fact connection** — if you ask for a cake recipe, suddenly everything connects perfectly to that recipe.
 
 ---
 
-## The Four-Node AI Brain Architecture
+## The currentl AI Brain Architecture
 
 This project produced a cognitive architecture specification for multi-model AI systems:
 
@@ -114,6 +114,20 @@ This project produced a cognitive architecture specification for multi-model AI 
         ↓
 [Reasoning AI] — The eight-model reasoning core, parallel processing,
                  adversarial review, source verification
+        ↓
+[Investigation AI] — Reads the current topic and facts collected sofar then does a full
+                     deep dive into the topic uncovering as much as it can. Reports back it's
+                     findings to reasoning AI
+        ↓
+[Gate layer AI] — Double checks the investigator AI, goes out and checks sources, how fresh
+                  those sources are. Looks for misquotes and misattributes. Finds gaps between information
+                  Holds highest standard it can.
+        ↓
+[Resilience layer AI] — Asks the reasoning core "why hasn't this broken? What is keeping the economy
+                       (or whatever the item is) from falling apart"
+        ↓
+[Devil's Advocate AI] — Takes an unfiltered and asks uncomfortable questions that sometimes need answers
+                        to explain other parts of a system you are tracking.  
         ↓
 [Librarian AI] — Save state keeper, append-only log, 18:00 commit cycle,
                  06:00 refresh cycle, staleness checks, never regenerates from scratch
@@ -124,6 +138,8 @@ This project produced a cognitive architecture specification for multi-model AI 
 ```
 
 The Librarian Operational Protocol — the daily 18:00 commit cycle with gate validation before commit, and the 06:00 refresh cycle — was designed, tested, and validated manually on July 4, 2026, over a sandwich. It works.
+
+Current aritechture features a lead, 7 reasoning cores and 8 assistant cores. 
 
 ---
 
