@@ -119,7 +119,10 @@ This project produced a cognitive architecture specification for multi-model AI 
 [Reasoning AI] — The eight-model reasoning core, parallel processing,
                  adversarial review, source verification
         ↓
-[Investigation AI] — Reads the current topic and facts collected sofar then does a full
+[News AI] — Goes out and gathers the day's news for the Investigator to look into. Right now I have it gathering
+            financial news from bigger sources. This helps spark further discussion among the AI.
+        ↓
+[Investigation AI] — Reads the current topic and facts collected so far then does a full
                      deep dive into the topic uncovering as much as it can. Reports back it's
                      findings to reasoning AI
         ↓
