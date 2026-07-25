@@ -105,7 +105,11 @@ Every number in every wave submission gets one of these tags before it moves for
 
 ---
 
-## The currentl AI Brain Architecture
+## The current AI Brain Architecture
+
+The current system started as four nodes, over time as I needed them, I added nodes that I felt the system was missing.
+At some point when computers and graphics cards don't cost the same as a brand new car I'll begin to build an 
+internal server rack with the different Ais talking to each other in a realtime chat. 
 
 This project produced a cognitive architecture specification for multi-model AI systems:
 
