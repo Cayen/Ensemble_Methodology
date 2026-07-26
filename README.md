@@ -92,7 +92,7 @@ Every number in every wave submission gets one of these tags before it moves for
 | `[ENSEMBLE-DEFINED]` | Framework the ensemble itself created — not external fact |
 | `[GAP]` | Structural data limitation — information exists but is not publicly available |
 
-**The 8 failure modes a proper gate catches:**
+**The 9 failure modes a proper gate catches:**
 
 1. **Source decay across hops** — a number drifts because nobody re-checked the primary source, only the prior wave's table
 2. **Invented precision** — a real range gets collapsed into a fake single point that looks more authoritative
@@ -102,6 +102,7 @@ Every number in every wave submission gets one of these tags before it moves for
 6. **Thread attrition** — important threads disappear because the conversation moved to something more vivid
 7. **Word connection** — If you use colorful language suddenly it appears in everything, and everything connects back to it.
 8. **random fact connection** — if you ask for a cake recipe, suddenly everything connects perfectly to that recipe.
+9. **Chicken little "the sky is falling" moment ** - When it creates brand new vectors to prove everything is falling apart.
 
 ---
 
