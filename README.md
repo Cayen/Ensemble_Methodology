@@ -102,7 +102,7 @@ Every number in every wave submission gets one of these tags before it moves for
 6. **Thread attrition** — important threads disappear because the conversation moved to something more vivid
 7. **Word connection** — If you use colorful language suddenly it appears in everything, and everything connects back to it.
 8. **random fact connection** — if you ask for a cake recipe, suddenly everything connects perfectly to that recipe.
-9. **Chicken little "the sky is falling" moment ** - When it creates brand new vectors to prove everything is falling apart.
+9. **Chicken little "the sky is falling" moment** - When it creates brand new vectors to prove everything is falling apart.
 
 ---
 
